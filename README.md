@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tenho 21 anos<br>Estou cursando Ciência da Computação<br>Instituto Federal de Sergipe<br>Tenho conhecimento básico em Front-end<br>Estudo desenvolvimento Back-end
+Oi, eu sou Rafael!<br>Estou cursando Ciência da Computação<br>Instituto Federal de Sergipe<br>Tenho conhecimento básico em Front-end<br>Estudo desenvolvimento Back-end
 
 
 # 💻 Tech Stack:
