@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rafael!
 
-Sou estudante de **Ciência da Computação** no Instituto Federal de Sergipe e um entusiasta do desenvolvimento de software. Tenho conhecimentos básicos em **Front-end** e estou me aprofundando cada vez mais no universo do **Back-end**. Gosto de aprender novas tecnologias, criar soluções práticas e me desafiar com novos projetos.
+Bacharel em Ciência da computação. Tenho conhecimentos em **Front-end** e estou me aprofundando cada vez mais no universo do **Back-end**. Gosto de aprender novas tecnologias, criar soluções práticas e me desafiar com novos projetos.
 
 ---
 
